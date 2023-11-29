@@ -31,7 +31,7 @@ body {
 
 
 .view-section {
-    max-width: 1000px; /* Increase max-width further for larger bubble */
+    max-width: 1000px;
 }
 
 ul {
@@ -40,11 +40,11 @@ ul {
 }
 
 li {
-    margin-bottom: 10px; /* Increase margin further for larger text */
-    font-size: 24px; /* Increase font size further for larger text */
+    margin-bottom: 10px;
+    font-size: 24px;
     font-weight: bold;
-    border: 1px solid #ccc; /* Add a border for a more defined appearance */
-    padding: 5px 10px; /* Add padding to separate text from the border */
+    border: 1px solid #ccc;
+    padding: 5px 10px;
 }
 
 

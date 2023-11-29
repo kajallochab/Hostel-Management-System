@@ -43,7 +43,6 @@ if (isset($_GET["logout"])) {
     width: 100%;
     box-sizing: border-box;
       display: flex;
-      /* justify-content: space-between; */
       align-items: center;
 }
 h1{

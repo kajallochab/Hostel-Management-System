@@ -21,7 +21,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         }
     }
 
-    // echo "Changes saved successfully";
     header("location: index.php");
 }
 
