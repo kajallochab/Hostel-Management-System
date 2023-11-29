@@ -1,0 +1,164 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    line-height: 1.6;
+    background-color: #3e0303;
+}
+
+.header {
+    width: 30%;
+    margin: 50px auto 0;
+    color: rgb(1, 48, 44);
+    background: #d6cf00;
+    text-align: center;
+    border: 1px solid #b6b929;
+    border-radius: 10px 10px 0 0;
+    padding: 20px;
+}
+
+form,
+.content {
+    width: 30%;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #6fafd7;
+    background: rgb(65, 10, 10);
+    border-radius: 0 0 10px 10px;
+}
+
+.input-group {
+    margin-bottom: 20px;
+}
+
+.input-group label {
+    display: block;
+    text-align: left;
+    margin: 10px 0 5px;
+    color: #555;
+}
+
+.input-group input {
+    height: 40px;
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+}
+
+.btn {
+    padding: 15px;
+    font-size: 18px;
+    color: white;
+    background: #3498db;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.error {
+    width: 100%;
+    margin-bottom: 20px;
+    padding: 15px;
+    border: 1px solid #e74c3c;
+    color: #e74c3c;
+    background: #f9ebec;
+    border-radius: 5px;
+    text-align: left;
+}
+
+.success {
+    width: 100%;
+    margin-bottom: 20px;
+    padding: 15px;
+    border: 1px solid #2ecc71;
+    color: #2ecc71;
+    background: #e8f8ec;
+    border-radius: 5px;
+    text-align: left;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    line-height: 1.6;
+    background-color: #3e0303;
+    margin: 0;
+    /* Remove default body margin */
+}
+
+.header {
+    width: 100%;
+    background-color: #d6cf00;
+    color: rgb(1, 48, 44);
+    text-align: center;
+    padding: 20px;
+}
+
+.navigation {
+    background-color: #3498db;
+}
+
+.navigation ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.navigation li {
+    display: block;
+    margin: 0;
+}
+
+.navigation a {
+    display: block;
+    padding: 15px;
+    color: white;
+    text-decoration: none;
+}
+
+.navigation a:hover {
+    background-color: #267bbf;
+}
+
+.content {
+    width: 70%;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #0b2637;
+    background: white;
+    border-radius: 10px;
+}
+
+.notification {
+    width: 100%;
+    margin-bottom: 20px;
+    padding: 15px;
+    border-radius: 5px;
+    text-align: left;
+}
+
+.success {
+    border: 1px solid #2ecc71;
+    color: #2ecc71;
+    background: #e8f8ec;
+}
+
+.logout-link {
+    color: red;
+}
+
+.welcome-section {
+    margin-top: 20px;
+}
