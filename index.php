@@ -25,7 +25,7 @@ if (isset($_GET["logout"])) {
     <style>
         body {
             background-color: #99ccff;
-            background-image: url('Hostel-1.jpg');
+            background-image: url('Hostel/Hostel-1.jpg');
             background-repeat: no-repeat;
             background-attachment: fixed;
             background-size: cover;

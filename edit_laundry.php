@@ -7,7 +7,7 @@
     <title>Edit Laundry Data</title>
     <style>
          body {
-            background-image: url('Hostel-3.jpg');
+            background-image: url('Hostel/Hostel-3.jpg');
             background-repeat: no-repeat;
             background-attachment: fixed;
             background-size: cover;

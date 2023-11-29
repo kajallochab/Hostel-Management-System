@@ -6,7 +6,7 @@
   <link rel="stylesheet" type="text/css" href="style.css">
   <style>
 	body{
-		background-image: url('Hostel-2.jpg');
+		background-image: url('Hostel/Hostel-2.jpg');
             background-repeat: no-repeat;
             background-attachment: fixed;
             background-size: cover;
